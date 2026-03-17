@@ -17,31 +17,31 @@ ctaTitle: Precisa de ajuda agora?
 ctaText: Nossa equipe está disponível para atender você. Clique abaixo e fale conosco pelo WhatsApp!
 ctaButtonText: Chamar no WhatsApp
 ctaWhatsappMessage: Olá! Gostaria de mais informações.
-heroBadge: Andaime para Obra
-heroTitle: Aluguel de Andaime
+heroBadge: 💻 Locação de Notebook
+heroTitle: Aluguel de Notebook
 heroTitleHighlight: em São Paulo
-heroSubtitle: Andaimes metálicos e fachadeiros para obras e serviços em altura. Montagem inclusa. Segurança garantida. Diária ou mensal.
+heroSubtitle: Notebooks e computadores para eventos, treinamentos e trabalho remoto. Entrega rápida e suporte técnico.
 heroCtaText: Falar no WhatsApp
-heroCtaSecondaryText: Ver tipos
-heroWhatsappMessage: Olá! Preciso alugar andaime para minha obra. Vocês montam?
-servicesTitle: Andaimes para Locação
-servicesSubtitle: Segurança nas alturas
-aboutTitle: Referência em Aluguel de Andaime
-aboutSubtitle: Equipamentos certificados
-aboutText: Locamos andaimes metálicos, fachadeiros e móveis para obras e serviços em altura. Montagem e desmontagem por equipe treinada. Equipamentos com certificação.
+heroCtaSecondaryText: Ver equipamentos
+heroWhatsappMessage: Olá! Preciso alugar notebooks. Vocês atendem na minha região?
+servicesTitle: Equipamentos para Locação
+servicesSubtitle: Tecnologia quando você precisa
+aboutTitle: Especialistas em Locação de Notebooks
+aboutSubtitle: Tecnologia a seu favor
+aboutText: Alugamos notebooks, desktops, monitores e periféricos para eventos corporativos, treinamentos, congressos e trabalho remoto. Equipamentos atualizados, entrega e retirada.
 aboutStats:
-  - number: 20+
+  - number: 5+
     label: Anos de experiência
-  - number: 3000+
-    label: Obras atendidas
+  - number: 300+
+    label: Eventos atendidos
   - number: 100%
-    label: Segurança garantida
+    label: Equipamentos testados
 featuredServices:
-  - aluguel-de-andaime
-  - aluguel-andaime-fachadeiro
-  - aluguel-andaime-movel
-  - aluguel-andaime-tubular
-  - aluguel-plataforma-elevatoria
-  - aluguel-escada-aluminio
-  - montagem-de-andaime
-activeTemplateId: aluguel-andaime
+  - aluguel-de-notebook
+  - aluguel-de-computador
+  - aluguel-de-projetor
+  - aluguel-de-monitor
+  - aluguel-notebook-gamer
+  - aluguel-de-impressora
+  - aluguel-de-webcam
+activeTemplateId: aluguel-notebook
