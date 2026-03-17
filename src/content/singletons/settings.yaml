@@ -14,4 +14,4 @@ robotsDisallow:
   - /api
 blogPermalinkStructure: postname
 blogUrlPrefix: blog
-autoUpdateEnabled: false
+autoUpdateEnabled: true
