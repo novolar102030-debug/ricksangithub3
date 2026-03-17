@@ -1,10 +1,10 @@
 heroTitle: "{servico} em {cidade} - {estado}"
-heroSubtitle: Aluguel de {servico} em {cidade} e região. Andaimes para sua obra.
-pageContent: Procurando {servico} em {cidade}? A {empresa} oferece andaimes para locação com montagem. Atuamos em {cidade} e região. Consulte valores e disponibilidade!
+heroSubtitle: Aluguel de {servico} em {cidade} e região. Equipamentos de qualidade para seu evento ou trabalho.
+pageContent: Procurando {servico} em {cidade}? A {empresa} oferece notebooks e equipamentos de informática para locação. Entrega em {cidade}. Consulte disponibilidade.
 benefits:
-  - Montagem em {cidade}
+  - Entrega em {cidade}
   - Orçamento gratuito
-  - Equipe treinada
-  - Equipamentos certificados
+  - Suporte técnico
+  - Equipamentos atualizados
 metaTitle: "{servico} em {cidade} | {empresa}"
-metaDescription: Aluguel de {servico} em {cidade}. A {empresa} - segurança na obra. Ligue!
+metaDescription: Aluguel de {servico} em {cidade}. A {empresa} atende eventos e empresas. Ligue agora!
